@@ -1,0 +1,1 @@
+《数据结构（用面向对象方法与C++描述）》（第二版），殷人昆等，清华大学出版社； 计算机算法——设计与分析导论 (影印版，Computer Algorithms: Introduction to Design and Analysis, 3rd Edition)，Sara Baase, Allen Van Gelder 编著，高等教育出版社 ；《操作系统教程（第5版）》，费翔林，骆斌编著，高等教育出版社； 《计算机系统基础》袁春风 编著机械工业出版社 ； 《计算机网络——自顶向下方法 (6th)》。James F. Kurose, Keith W. Ross编著，机械工业出版社； 
